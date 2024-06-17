@@ -1,0 +1,24 @@
+"Activity Date","Process Date","Settle Date","Instrument","Description","Trans Code","Quantity","Price","Amount"
+"6/13/2024","6/13/2024","6/14/2024","STRR","Star Equity
+CUSIP: 85513Q103","Buy","1","$0.82","($0.82)"
+"6/13/2024","6/13/2024","6/14/2024","BSFC","Blue Star Foods
+CUSIP: 09606H309","Sell","0.02","$2.40","$0.05"
+"6/13/2024","6/13/2024","6/13/2024","VLD","Velo3D
+CUSIP: 92259N104","SPR","1S","",""
+"6/12/2024","6/12/2024","6/13/2024","TNXP","Tonix Pharmaceuticals
+CUSIP: 890260847","Sell","1","$1.11","$1.11"
+"6/12/2024","6/12/2024","6/13/2024","ICU","SeaStar Medical
+CUSIP: 81256L203","Sell","1","$3.72","$3.72"
+"6/12/2024","6/12/2024","6/13/2024","TRNR","Interactive Strength
+CUSIP: 45840Y104","Buy","1","$0.11","($0.11)"
+"6/12/2024","6/12/2024","6/13/2024","VLD","Velo3D
+CUSIP: 92259N104","Buy","1","$0.12","($0.12)"
+"6/12/2024","6/12/2024","6/12/2024","TNXP","Tonix Pharmaceuticals
+CUSIP: 890260847","SPR","1","",""
+"6/12/2024","6/12/2024","6/12/2024","ICU","SeaStar Medical
+CUSIP: 81256L203","SPR","1","",""
+"6/11/2024","6/11/2024","6/12/2024","CEAD","CEA Industries
+CUSIP: 86887P309","Sell","1","$6.72","$6.72"
+"6/11/2024","6/11/2024","6/11/2024","CEAD","CEA Industries
+CUSIP: 86887P309","SPR","1","",""
+"6/10/2024","6/10/2024","6/11/2024","CNSP","CNS Pharmaceuticals
